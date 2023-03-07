@@ -17,3 +17,8 @@ python tracking/create_default_local_file.py --workspace_dir . --data_dir ./data
 Create a folder video .Put the tracking datasets in ./video
 
 ## Evaluation
+Download the model weights from [Google Drive](https://drive.google.com/drive/folders/1PS4inLS8bWNCecpYZ0W2fE5-A04DvTcd?usp=sharing) 
+- video-test
+```
+python tracking/video_demo.py ostrack vitb_384_mae_ce_32x4_ep300 ./video/name.mp4
+
