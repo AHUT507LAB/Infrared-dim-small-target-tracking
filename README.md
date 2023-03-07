@@ -21,6 +21,6 @@ Download the model weights from [Google Drive](https://drive.google.com/drive/fo
 - video-test
 ```
 python tracking/video_demo.py ostrack vitb_384_mae_ce_32x4_ep300 ./video/name.mp4
-
-- display
+```
+## display
 https://user-images.githubusercontent.com/85088116/223421585-e1429810-70b3-4b6f-8439-5a7a9d298728.mp4
