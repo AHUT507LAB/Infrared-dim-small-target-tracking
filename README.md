@@ -26,7 +26,7 @@ python tracking/video_demo.py ostrack vitb_384_mae_ce_32x4_ep300 ./video/name.mp
 ```
 ours
 ```
-https://user-images.githubusercontent.com/85088116/235887632-4a63d40e-552d-4090-b960-e2bb13a54861.mp4
+https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/f353aaaa-a38c-4fa1-ab66-f66cb332082e
 
 https://user-images.githubusercontent.com/85088116/235891136-b168c76f-7134-417f-8b15-9929dc3798f8.mp4
 
