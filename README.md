@@ -32,7 +32,7 @@ https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116
 
 https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/a9850454-0e0b-4deb-abb0-21c5e9da60ab
 
-https://user-images.githubusercontent.com/85088116/235888972-70597040-50b3-401f-8a57-38292af56e69.mp4
+https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/f2363890-dd53-405b-a47c-181442803b48
 
 https://user-images.githubusercontent.com/85088116/235892827-d95cb651-3f1a-440c-8166-dab0c1fe5c21.mp4
 ```
