@@ -28,7 +28,7 @@ ours
 ```
 https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/f353aaaa-a38c-4fa1-ab66-f66cb332082e
 
-https://user-images.githubusercontent.com/85088116/235891136-b168c76f-7134-417f-8b15-9929dc3798f8.mp4
+https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/5aaa2791-61a4-4b6a-b64f-29f33ac2c16c
 
 https://user-images.githubusercontent.com/85088116/235888297-6e6e49c6-2ca4-4b34-a71b-6bddc301080d.mp4
 
