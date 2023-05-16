@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/85088116/235892827-d95cb651-3f1a-440c-
 ```
 OSTrack
 ```
-https://user-images.githubusercontent.com/85088116/235898751-dc8e3ad5-f8b3-4c57-a813-a4298ed44243.mp4
+https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/78cf1f6b-8ee5-4e94-8a5f-1ea798e95149
 ```
 SiamRPN
 ```
