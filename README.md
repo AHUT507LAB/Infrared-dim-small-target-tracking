@@ -1,4 +1,4 @@
-# Infrared-dim-small-target-detection
+# Infrared-dim-small-target-tracking
 anti-UAV
 ## Install the environment
 Use the Anaconda (CUDA 10.2)
